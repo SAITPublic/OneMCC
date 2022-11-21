@@ -1,0 +1,6 @@
+[submodule "PIMLibrary"]
+	path = PIMLibrary
+	url = https://github.com/SAITPublic/PIMLibrary.git
+[submodule "PIMSimulator"]
+	path = PIMSimulator
+	url = https://github.com/SAITPublic/PIMSimulator.git
