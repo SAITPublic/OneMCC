@@ -4,3 +4,6 @@
 [submodule "PIMSimulator"]
 	path = PIMSimulator
 	url = https://github.com/SAITPublic/PIMSimulator.git
+[submodule "PIMMock"]
+	path = PIMMock
+	url = https://github.com/SAITPublic/PIMMock.git
