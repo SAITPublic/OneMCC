@@ -1,18 +1,24 @@
 [submodule "PIMLibrary"]
 	path = PIMLibrary
 	url = https://github.com/SAITPublic/PIMLibrary.git
+	branch = develop
 [submodule "PIMSimulator"]
 	path = PIMSimulator
 	url = https://github.com/SAITPublic/PIMSimulator.git
+	branch = dev
 [submodule "PIMMock"]
 	path = PIMMock
 	url = https://github.com/SAITPublic/PIMMock.git
+	branch = master
 [submodule "PimPyLibrary"]
 	path = PimPyLibrary
 	url = https://github.com/SAITPublic/PimPyLibrary.git
+	branch = master
 [submodule "PIMPatches"]
 	path = PIMPatches
 	url = https://github.com/SAITPublic/PIMPatches.git
+	branch = main
 [submodule "SYCL-Extension-Document"]
 	path = SYCL-Extension-Document
 	url = https://github.com/SAITPublic/SYCL-Extension-Document.git
+	branch = master
