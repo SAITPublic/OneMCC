@@ -13,3 +13,6 @@
 [submodule "PIMPatches"]
 	path = PIMPatches
 	url = https://github.com/SAITPublic/PIMPatches.git
+[submodule "SYCL-Extension-Document"]
+	path = SYCL-Extension-Document
+	url = https://github.com/SAITPublic/SYCL-Extension-Document.git
