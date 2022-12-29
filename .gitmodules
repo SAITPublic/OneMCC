@@ -22,3 +22,11 @@
 	path = SYCL-Extension-Document
 	url = https://github.com/SAITPublic/SYCL-Extension-Document.git
 	branch = master
+[submodule "PimAiCompiler"]
+	path = PimAiCompiler
+	url = https://github.com/SAITPublic/PimAiCompiler.git
+        branch = master
+[submodule "PIMmodels"]
+	path = PIMmodels
+	url = https://github.com/SAITPublic/PIMmodels.git
+        branch = main
