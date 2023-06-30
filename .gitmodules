@@ -25,8 +25,12 @@
 [submodule "PimAiCompiler"]
 	path = PimAiCompiler
 	url = https://github.com/SAITPublic/PimAiCompiler.git
-        branch = master
+	branch = master
 [submodule "PIMmodels"]
 	path = PIMmodels
 	url = https://github.com/SAITPublic/PIMmodels.git
-        branch = main
+	branch = main
+[submodule "PNMLibrary"]
+	path = PNMLibrary
+	url = https://github.com/SAITPublic/PNMLibrary.git
+	branch = master
