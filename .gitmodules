@@ -30,3 +30,7 @@
 	path = PIMmodels
 	url = https://github.com/SAITPublic/PIMmodels.git
 	branch = main
+[submodule "PNMLibrary"]
+	path = PNMLibrary
+	url = https://github.com/SAITPublic/PNMLibrary
+	branch = main
