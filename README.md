@@ -1,5 +1,5 @@
 # OneMCC
-This repository is a meta package to provide Samsung OneMCC (Memory Coupled Computing) infrastructure.
+This repository is a meta package to provide Samsung OneMCC (Memory-Centric Computing) infrastructure.
 
 # Fetch repositories
 git submodule init
